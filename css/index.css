@@ -1,3 +1,13 @@
 body {
 	background-color: #1DE9B6;
 }
+
+#description {
+	color: #394f5b;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size: 45px;
+	letter-spacing: 0.15px;
+	padding-left: 5%;
+	padding-top: 15%;
+	padding-right: 15%;
+}
